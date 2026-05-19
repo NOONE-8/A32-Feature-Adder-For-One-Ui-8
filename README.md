@@ -29,19 +29,20 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/photo_6048720593672146303_y.jpg" width="220" alt="Screen 1" style="margin: 5px;">
-  <img src="screenshots/photo_6048720593672146304_y.jpg" width="220" alt="Screen 2" style="margin: 5px;">
-  <img src="screenshots/photo_6048720593672146305_y.jpg" width="220" alt="Screen 3" style="margin: 5px;">
-  <img src="screenshots/photo_6048720593672146306_y.jpg" width="220" alt="Screen 4" style="margin: 5px;">
-</p>
-
-<p align="center">
-  <img src="screenshots/photo_6048720593672146307_y.jpg" width="220" alt="Screen 5" style="margin: 5px;">
-  <img src="screenshots/photo_6048720593672146308_y.jpg" width="220" alt="Screen 6" style="margin: 5px;">
-  <img src="screenshots/photo_6048720593672146309_y.jpg" width="220" alt="Screen 7" style="margin: 5px;">
-</p>
-
+<table width="100%">
+  <tr>
+    <td width="25%"><img src="screenshots/photo_6048720593672146303_y.jpg" width="100%"></td>
+    <td width="25%"><img src="screenshots/photo_6048720593672146304_y.jpg" width="100%"></td>
+    <td width="25%"><img src="screenshots/photo_6048720593672146305_y.jpg" width="100%"></td>
+    <td width="25%"><img src="screenshots/photo_6048720593672146306_y.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="screenshots/photo_6048720593672146307_y.jpg" width="100%"></td>
+    <td width="25%"><img src="screenshots/photo_6048720593672146308_y.jpg" width="100%"></td>
+    <td width="25%"><img src="screenshots/photo_6048720593672146309_y.jpg" width="100%"></td>
+    <td width="25%"></td>
+  </tr>
+</table>
 ---
 ### 🎭 Core Injection
 * **S26 Ultra Spoofing:** Integrated flagship system identity spoofing to bypass Samsung server restrictions, unlocking premium Galaxy AI and exclusive application features.
