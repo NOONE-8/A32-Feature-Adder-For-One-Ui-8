@@ -29,10 +29,18 @@
 
 ## 📸 Screenshots
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="screenshots/photo_6048720593672146303_y.jpg" width="180"> | <img src="screenshots/photo_6048720593672146304_y.jpg" width="180"> | <img src="screenshots/photo_6048720593672146305_y.jpg" width="180"> | <img src="screenshots/photo_6048720593672146306_y.jpg" width="180"> |
-| <img src="screenshots/photo_6048720593672146307_y.jpg" width="180"> | <img src="screenshots/photo_6048720593672146308_y.jpg" width="180"> | <img src="screenshots/photo_6048720593672146309_y.jpg" width="180"> | |
+<p align="center">
+  <img src="photo_6048720593672146303_y.jpg" width="220" alt="Screen 1" style="margin: 5px; display: inline-block;">
+  <img src="photo_6048720593672146304_y.jpg" width="220" alt="Screen 2" style="margin: 5px; display: inline-block;">
+  <img src="photo_6048720593672146305_y.jpg" width="220" alt="Screen 3" style="margin: 5px; display: inline-block;">
+  <img src="photo_6048720593672146306_y.jpg" width="220" alt="Screen 4" style="margin: 5px; display: inline-block;">
+</p>
+
+<p align="center">
+  <img src="photo_6048720593672146307_y.jpg" width="220" alt="Screen 5" style="margin: 5px; display: inline-block;">
+  <img src="photo_6048720593672146308_y.jpg" width="220" alt="Screen 6" style="margin: 5px; display: inline-block;">
+  <img src="photo_6048720593672146309_y.jpg" width="220" alt="Screen 7" style="margin: 5px; display: inline-block;">
+</p>
 
 ---
 ### 🎭 Core Injection
