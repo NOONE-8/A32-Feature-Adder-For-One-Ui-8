@@ -1,10 +1,8 @@
 # A32-Feature-Adder-For-One-Ui-8
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Device-Samsung%20A32%20%28A325F%29-blue?style=for-the-badge&logo=samsung" alt="Device">
-  <img src="https://img.shields.io/badge/OS-One%20UI%208.0%20%2B-darkred?style=for-the-badge&logo=android" alt="OS">
-  <img src="https://img.shields.io/badge/Root-Magisk%2030.0%2B-green?style=for-the-badge" alt="Root">
-</p>
+[![Version](https://img.shields.io/badge/Version-V1.0-blue)](https://github.com/NOONE-8/A32-Feature-Adder-For-One-Ui-8/releases)
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![Requirement](https://img.shields.io/badge/Requirement-Magisk-red)
 
 "A comprehensive Magisk module designed for Samsung A32 to unlock premium One UI features, fix common camera bugs, and optimize hardware performance."
 
