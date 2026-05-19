@@ -24,9 +24,10 @@
 * **AI Wallpaper:** Generative AI wallpaper creation engine enabled natively.
 
 ### 📺 System & Display Optimizations
-* **Display Color Calibration:** Optimized screen color profiles and premium calibration lines for a more vivid visual experience.
 * **UI Enhancements:** Added **Now Brief**  from the S26 Ultra.
-
+* **Display Color Calibration & Wide Color Gamut:** Unlocked hardware-level `WIDE_COLOR_GAMUT` and premium calibration lines (Natural Mode Type 2) for a more vivid, color-accurate, and cinema-grade visual experience.
+* **Enhanced Video & Media Playback:** Videos and media streams render with much higher visual quality, deeper contrasts, and richer colors.
+* **Night Dim Optimization:** Hardware-level smart dimming enabled for better eye protection during low-light usage.
 ## 📸 Screenshots
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
