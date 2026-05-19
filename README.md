@@ -29,17 +29,17 @@
 
 ## 📸 Screenshots
 
-<table width="100%">
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="25%"><img src="screenshots/photo_6048720593672146303_y.jpg" width="100%"></td>
-    <td width="25%"><img src="screenshots/photo_6048720593672146304_y.jpg" width="100%"></td>
-    <td width="25%"><img src="screenshots/photo_6048720593672146305_y.jpg" width="100%"></td>
-    <td width="25%"><img src="screenshots/photo_6048720593672146306_y.jpg" width="100%"></td>
+    <td width="25%" align="center"><img src="screenshots/photo_6048720593672146303_y.jpg" width="100%"></td>
+    <td width="25%" align="center"><img src="screenshots/photo_6048720593672146304_y.jpg" width="100%"></td>
+    <td width="25%" align="center"><img src="screenshots/photo_6048720593672146305_y.jpg" width="100%"></td>
+    <td width="25%" align="center"><img src="screenshots/photo_6048720593672146306_y.jpg" width="100%"></td>
   </tr>
   <tr>
-    <td width="25%"><img src="screenshots/photo_6048720593672146307_y.jpg" width="100%"></td>
-    <td width="25%"><img src="screenshots/photo_6048720593672146308_y.jpg" width="100%"></td>
-    <td width="25%"><img src="screenshots/photo_6048720593672146309_y.jpg" width="100%"></td>
+    <td width="25%" align="center"><img src="screenshots/photo_6048720593672146307_y.jpg" width="100%"></td>
+    <td width="25%" align="center"><img src="screenshots/photo_6048720593672146308_y.jpg" width="100%"></td>
+    <td width="25%" align="center"><img src="screenshots/photo_6048720593672146309_y.jpg" width="100%"></td>
     <td width="25%"></td>
   </tr>
 </table>
