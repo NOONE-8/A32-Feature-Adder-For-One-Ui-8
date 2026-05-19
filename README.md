@@ -27,6 +27,16 @@
 * **Display Color Calibration:** Optimized screen color profiles and premium calibration lines for a more vivid visual experience.
 * **UI Enhancements:** Added **Now Brief**  from the S26 Ultra.
 
+## 🖼 Screenshots
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="screenshots/photo_6048720593672146303_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146304_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146305_y.jpg" width="200"> |
+| <img src="screenshots/photo_6048720593672146306_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146307_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146308_y.jpg" width="200"> |
+| <img src="screenshots/photo_6048720593672146309_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146310_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146311_y.jpg" width="200"> |
+| <img src="screenshots/photo_6048720593672146312_y%20(1).jpg" width="200"> | <img src="screenshots/photo_5771637349870669184_y.jpg" width="200"> |||
+
+---
 ### 🎭 Core Injection
 * **S26 Ultra Spoofing:** Integrated flagship system identity spoofing to bypass Samsung server restrictions, unlocking premium Galaxy AI and exclusive application features.
 
