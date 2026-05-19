@@ -25,7 +25,7 @@
 
 ### 📺 System & Display Optimizations
 * **UI Enhancements:** Added **Now Brief**  from the S26 Ultra.
-* **Cinema-Grade Video Playback:** Unlocked Wide Color Gamut (WCG) support, making videos, movies, and streaming content look significantly sharper, with richer colors and deeper contrasts.
+* **Enhanced Video & Media Playback:** Unlocked advanced media rendering and Natural Color Profiles for sharper, more vivid video playback with richer contrast.
 * **Pro Display Calibration:** Enabled advanced Natural Color Profiles and hardware-level smart dimming to reduce eye strain in low-light environments.
 * **Smart Gallery & Vision AI:** Upgraded the image processing engine to allow high-fidelity image cropping, instant image translation text overlays, and AI-driven content sorting.
 
