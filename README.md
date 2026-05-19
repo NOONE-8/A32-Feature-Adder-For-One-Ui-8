@@ -27,12 +27,12 @@
 * **Display Color Calibration:** Optimized screen color profiles and premium calibration lines for a more vivid visual experience.
 * **UI Enhancements:** Added **Now Brief**  from the S26 Ultra.
 
-## 🖼 Screenshots
+## 📸 Screenshots
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="screenshots/photo_6048720593672146303_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146304_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146305_y.jpg" width="200"> |
-| <img src="screenshots/photo_6048720593672146306_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146307_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146308_y.jpg" width="200"> | <img src="screenshots/photo_6048720593672146309_y.jpg" width="200">  |||
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="screenshots/photo_6048720593672146303_y.jpg" width="180"> | <img src="screenshots/photo_6048720593672146304_y.jpg" width="180"> | <img src="screenshots/photo_6048720593672146305_y.jpg" width="180"> | <img src="screenshots/photo_6048720593672146306_y.jpg" width="180"> |
+| <img src="screenshots/photo_6048720593672146307_y.jpg" width="180"> | <img src="screenshots/photo_6048720593672146308_y.jpg" width="180"> | <img src="screenshots/photo_6048720593672146309_y.jpg" width="180"> | |
 
 ---
 ### 🎭 Core Injection
