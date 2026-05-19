@@ -25,9 +25,10 @@
 
 ### 📺 System & Display Optimizations
 * **UI Enhancements:** Added **Now Brief**  from the S26 Ultra.
-* **Display Color Calibration & Wide Color Gamut:** Unlocked hardware-level `WIDE_COLOR_GAMUT` and premium calibration lines (Natural Mode Type 2) for a more vivid, color-accurate, and cinema-grade visual experience.
-* **Enhanced Video & Media Playback:** Videos and media streams render with much higher visual quality, deeper contrasts, and richer colors.
-* **Night Dim Optimization:** Hardware-level smart dimming enabled for better eye protection during low-light usage.
+* **Cinema-Grade Video Playback:** Unlocked Wide Color Gamut (WCG) support, making videos, movies, and streaming content look significantly sharper, with richer colors and deeper contrasts.
+* **Pro Display Calibration:** Enabled advanced Natural Color Profiles and hardware-level smart dimming to reduce eye strain in low-light environments.
+* **Smart Gallery & Vision AI:** Upgraded the image processing engine to allow high-fidelity image cropping, instant image translation text overlays, and AI-driven content sorting.
+
 ## 📸 Screenshots
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
