@@ -1,6 +1,6 @@
 # A32-Feature-Adder-For-One-Ui-8
 
-[![Version](https://img.shields.io/badge/Version-V1.0-blue)](https://github.com/NOONE-8/A32-Feature-Adder-For-One-Ui-8/releases)
+[![Version](https://img.shields.io/badge/Version-V2.0-blue)](https://github.com/NOONE-8/A32-Feature-Adder-For-One-Ui-8/releases)
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Requirement](https://img.shields.io/badge/Requirement-Magisk-red)
 
